@@ -1,3 +1,4 @@
 *.psd filter=lfs diff=lfs merge=lfs -text
 *Half-Life.rar filter=lfs diff=lfs merge=lfs -text
 *Half-life.rar filter=lfs diff=lfs merge=lfs -text
+2026-10-04[[:space:]]21-28-31.mp4 filter=lfs diff=lfs merge=lfs -text
